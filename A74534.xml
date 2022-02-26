@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance for bringing the publique revenues of this Common-Wealth into one treasurie. Wednesday June 21. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+            <title>Orders in Council. 1654-06-21.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74534</idno>
+            <idno type="STC">Thomason E1064_15</idno>
+            <idno type="STC">ESTC R210216</idno>
+            <idno type="EEBO-CITATION">99869034</idno>
+            <idno type="PROQUEST">99869034</idno>
+            <idno type="VID">169215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169215)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance for bringing the publique revenues of this Common-Wealth into one treasurie. Wednesday June 21. 1654. Ordered by his Highness the Lord Protector, and his council, that this ordinance be forthwith printed and published. Henry Scobell, Clerk of the Council.</title>
+                  <title>Orders in Council. 1654-06-21.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State. aut</author>
+               </titleStmt>
+               <extent>[2], 393-398 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William du-Gard and Henry Hills, printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print dated: June 21. 1654.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Excise tax --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169215:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE For bringing the Publique Revenues OF THIS COMMON-WEALTH INTO ONE TREASURIE.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Wedneſday June</hi> 21. 1654.</date>
+                     </dateline>
+                  </opener>
+                  <p>ORdered by his Highneſs the Lord Protector, and His Council, That this Ordinance be forthwith Printed and Publiſhed.</p>
+                  <closer>
+                     <signed>
+                        <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills,</hi> Printers to His Highneſs the Lord Protector, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169215:2"/>
+            <pb n="393" facs="tcp:169215:2"/>
+            <head>
+               <figure>
+                  <figDesc>seal of the commonwealth of England</figDesc>
+               </figure> AN ORDINANCE For bringing the Publique Revenues Of this Common-wealth into one TREASVRY.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas upon Conſide<g ref="char:EOLhyphen"/>ration had, It is found neceſſary, That the Moneys and other payments ariſing by the Pub<g ref="char:EOLhyphen"/>lique Revenues of this Common-wealth, or which ſhall be raiſed for the uſes thereof, ſhould be paid into one Treaſu<g ref="char:EOLhyphen"/>ry,
+<pb n="394" facs="tcp:169215:3"/> to the end the ſame may from time to time the more readily be imployed and diſpo<g ref="char:EOLhyphen"/>ſed as the occaſions of the Common-wealth ſhall require.</p>
+            <p>That the Charges ariſing by the multiplicity of Treaſuries or Receipts may be reduced, and the perſons who ſhall be im<g ref="char:EOLhyphen"/>ployed in receiving the ſame, be brought to a due Accompt. And whereas alſo the Re<g ref="char:EOLhyphen"/>ceipt of the Publique Exchequer at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> is judged moſt fit, and convenient for that purpoſe,</p>
+            <p>Be it Ordained by his Highneſs the Lord Protector, by and with the Advice and Con<g ref="char:EOLhyphen"/>ſent of His Council, That from and after the four and twentyeth day of <hi>June,</hi> One thouſand ſix hundred fifty and four, The ſaid Receipt ſhall be, and ſhall be called, The Receipt of the Exchequer of his High<g ref="char:EOLhyphen"/>neſs the Lord Protector, and ſhall be kept and executed in the uſual and accuſtomed Places, Method, Manner, and Way of Re<g ref="char:EOLhyphen"/>ceipt of Exchequer, as formerly. And that all and every Summ and Summs of Money, and other Payments, which upon and after the ſaid four and twentyeth day of <hi>June,</hi> One thouſand ſix hundred fifty and four, ſhall be received, or taken, or ſhall become due or pay<g ref="char:EOLhyphen"/>able to, or for the uſe of his Highneſs the Lord Protector, and the Common-wealth, by any Commiſſioner, Treaſurer, Receiver, Collector, Sheriff, Bayliff, Steward, Eſ<g ref="char:EOLhyphen"/>cheator, or other Officer, Miniſter, or Per<g ref="char:EOLhyphen"/>ſon, Bodies Politique, or Corporate what<g ref="char:EOLhyphen"/>ſoever, for any Fee-farm Rents, Quit-rents, Dry-rents, Out-rents, Annual Tenths, ei<g ref="char:EOLhyphen"/>ther
+<pb n="395" facs="tcp:169215:3"/> of the Layty or Clergy, or for firſt Fruits of the Clergy, or for or out of the Rents, Iſ<g ref="char:EOLhyphen"/>ſues or Profits of any the Honours, Man<g ref="char:EOLhyphen"/>nours, Lands, Tenements, Hereditaments, Royalties, Franchiſes, or other Revenues, Certain or Caſual, Tithes Appropriate, Im<g ref="char:EOLhyphen"/>propriations, or Rectories Impropriate, with their appurtenances, late of or belonging to the late King, Queen, and Prince, Arch-Biſhops, Biſhops, Deans, Deans and Chapters, Arch-Deacons and Deacons, in right of their Offices, as alſo of Delinquents and Recu<g ref="char:EOLhyphen"/>ſants, or any of them, or for or in reſpect of any Debts due to the late King, Queen or Prince, Or to the late Keepers of the Li<g ref="char:EOLhyphen"/>berty of <hi>England</hi> by authority of Parlament, or forfeited by any the ſaid Delinquents or Recuſants to the Common-wealth, or for or in reſpect of any Compoſition, Contract, or Sale, of or for any the premiſſes, or any part or par<g ref="char:EOLhyphen"/>cel of them, or for or in reſpect of Cuſtoms and Subſidies upon Merchandizes, New Im<g ref="char:EOLhyphen"/>poſt and Exciſe, Sale, or other Diſpoſition of Prize Goods, or for or in reſpect of any Confiſcation, Seizure, Forfeiture, Fine, or other Penalty or Contempt, or upon, or by any Iudgement, Decree, Order or Award of any Court, Commiſſioners or Commit<g ref="char:EOLhyphen"/>tee thereunto Authorized; And all and every Summ and Summs of Money, and other Payments whatſoever, which upon the ſaid four and twentyeth day of <hi>June</hi> ſhall be due, or from thenceforth ſhall ariſe, accrue, or grow due or payable to his Highneſs and the Common-wealth, by, or from any Perſon or Perſons whatſoever, Bodies Politique, or Corporate, by all or any the Ways or Means
+<pb n="396" facs="tcp:169215:4"/> aforeſaid, or by any other Waies or Means than are before ſpecified, ſhall be paid into the ſaid Receipt of the Exchequer, by all and e<g ref="char:EOLhyphen"/>very the Perſon and Perſons, Bodies Poli<g ref="char:EOLhyphen"/>tique and Corporate, who ſhall receive, or be liable to pay the ſame, any Law, Statute, Ordinance or Order of Parlament, or any other Matter or Thing whatſoever to the Contrary hereof, in any wiſe notwithſtand<g ref="char:EOLhyphen"/>ing. For the payment of which Moneys, and every of them, Tallies levyed and al<g ref="char:EOLhyphen"/>lowed according to the uſual and accuſtomed Courſe of the Exchequer, with the Alterati<g ref="char:EOLhyphen"/>on of the words upon the Tally from La<g ref="char:EOLhyphen"/>tine to Engliſh, ſhall be to every Perſon and Perſons, Bodies Politique and Corporate, ſo paying, and their Succeſſors, Heirs, Execu<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, and Aſſigns, reſpec<g ref="char:EOLhyphen"/>tively, ſufficient Acquittance and Diſcharge.</p>
+            <p>And be it further Ordained and Declared by the Authority aforeſaid, That from and after the ſaid four &amp; twentyeth day of <hi>June,</hi> the ſaid Receipt of the Exchequer of His High<g ref="char:EOLhyphen"/>neſs the Lord Protector, ſhall be governed and ordered; And the Moneys therein from time to time being and remaining, and to be there paid as aforeſaid, ſhall be received and kept, and charged and accompted for, and alſo iſſued and paid out (by Warrant, as is herein, and hereby declared) according to the ancient me<g ref="char:EOLhyphen"/>thod, uſage and practice of the Receipt of the Exchequer, by ſuch Perſon and Perſons, Of<g ref="char:EOLhyphen"/>ficer and Officers onely, and no other, than ſuch as His Highneſs the Lord Protector ſhall from time to time, by Letters Patents under the Great Seal, conſtitute and appoint. And that every Perſon and Perſons, Officer
+<pb n="397" facs="tcp:169215:4"/> and Officers to be hereafter in that behalf ſo conſtituted and appointed, as aforeſaid, ſhall and may from time to time have, uſe, exer<g ref="char:EOLhyphen"/>ciſe, and enjoy, all and every the like law<g ref="char:EOLhyphen"/>full Powers, Privileges, Preheminences and Authorities, in relation to his and their ſeve<g ref="char:EOLhyphen"/>ral Offices and Places, and the execution thereof, as any other Perſon or Perſons, Of<g ref="char:EOLhyphen"/>ficer or Officers of the Receipt of the Exche<g ref="char:EOLhyphen"/>quer at <hi>Weſtminſter,</hi> in the adminiſtration or execution of their or any of their Offices or Places at any time heretofore lawfully have, or of right might have, had, uſed, or enjoyed. And ſhall have and receive for and in reſpect of his and their execution of, and attendance in and upon his and their ſaid Offices and Places reſpectively, ſuch moderate Fees, Wages, Rewards and Allowances onely, as His Highneſs the Lord Protector, with the advice and conſent of His Council, by the ſaid Letters Patents, ſhall think fit to limit and appoint.</p>
+            <p>And be it further Ordained by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That if any Perſon or Perſons, Officer or Officers ſo authorized as aforeſaid, ſhall at any time directly or indirectly, upon any pretence whatſoever, by colour of ſuch his or their Office or Imployment, take or receive any other or greater fee or fees, ſum or ſums of Money, or other Gift, Reward, or Gratuity whatſoever, That then all and every ſuch Perſon and Perſons, Officer and Officers ſhall, upon proof or confeſſion thereof before His Highneſs Council forfeit and loſe his and their Place and Places, Office and Offices; and the Letters Patents in that behalf ſhall from thenceforth become void. And all and
+<pb n="398" facs="tcp:169215:5"/> every Perſon and Perſons, Officer and Offi<g ref="char:EOLhyphen"/>cers ſo offending, ſhall alſo forfeit and pay treble the value of ſuch Fee or Fees, Sum or Sums of Money, Gift, Reward, or Gra<g ref="char:EOLhyphen"/>tuity, unto ſuch Perſon and Perſons, as ſhall ſue for the ſame, by Bill, Plaint, or In<g ref="char:EOLhyphen"/>formation in any Court of Record.</p>
+            <p>And be it further Ordained, That all and every the Sum and Sums of Money, which from and after the ſaid four and twentyeth day of <hi>June</hi> ſhall be brought and paid into the ſaid Receipt, ſhall be from time to time thence iſſued and paid by Warrant and Authority un<g ref="char:EOLhyphen"/>der the Great Seal, or under the Privy Seal, and not otherwiſe.</p>
+            <p>But as to the iſſuing of the Money mentio<g ref="char:EOLhyphen"/>ned in the nine and twentieth Article of the <hi>Go<g ref="char:EOLhyphen"/>vernment of the Common-wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging,</hi> The ſame ſhall not be granted but by Conſent of Parlament, or of the Lord Protector and major part of the Council, in the Intervals of Parlaments.</p>
+            <p>Provided, That this Ordinance, or any thing therein conteined, ſhall not extend to any the Revenues of <hi>Ireland,</hi> or monies raiſed there for the publique uſe, until His Highneſs the Lord Protector, or His Council, ſhall give Order therein.</p>
+            <p>Provided alſo, That this Ordinance, or a<g ref="char:EOLhyphen"/>ny thing therein conteined, ſhall not extend to any the Lands, Tenements, Hereditaments, Revenues or poſſeſſions of, or belonging to His Highneſs the Lord Protector, or His Succeſſors Lords Protectors, in any other Capacity than as Lord Protector onely.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <head>
+               <hi>Wedneſday June</hi> 21. 1654.</head>
+            <p>ORdered by his Highneſs the Lord Protector and His Council, That this Ordinance be forthwith Printed and Publiſhed,</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
